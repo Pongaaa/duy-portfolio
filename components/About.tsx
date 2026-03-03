@@ -11,7 +11,7 @@ const content = {
     passion: "I love turning messy data into beautiful, actionable insights. Whether it's building ML models, designing dashboards, or optimizing data pipelines, I'm driven by the challenge of making data work for you.",
     traits: "I'm meticulous, continuously learning new technologies, and believe in writing clean, maintainable code.",
     school: "Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM (UIT)",
-    gpa: "Top Student (GPA: 8.35/10)",
+    gpa: "Top Student (GPA: 8.36/10)",
     coursework: "Data Structures & Algorithms • Machine Learning • Probability & Statistics • Database Systems"
   },
   vi: {
@@ -20,7 +20,7 @@ const content = {
     passion: "Tôi thích biến dữ liệu hỗn loạn thành những insight hữu ích, hành động được. Dù xây dựng mô hình ML, thiết kế dashboard hay tối ưu hóa data pipeline, tôi luôn bị thôi thúc bởi thử thách làm cho dữ liệu hoạt động hiệu quả.",
     traits: "Tôi cầu toàn, liên tục học hỏi công nghệ mới, và tin vào việc viết code sạch, dễ bảo trì.",
     school: "Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM (UIT)",
-    gpa: "Sinh Viên Giỏi (GPA: 8.35/10)",
+    gpa: "Sinh Viên Giỏi (GPA: 8.36/10)",
     coursework: "Cấu trúc Dữ liệu & Giải thuật • Học Máy • Xác suất & Thống kê • Hệ cơ sở Dữ liệu"
   }
 };
@@ -39,7 +39,7 @@ export default function About({ language }: AboutProps) {
             </h2>
           </div>
           <img 
-            src="/images/logo-uit-web.png" 
+            src="/logo-uit-web.png" 
             alt="UIT Logo" 
             className="h-16 w-16 object-contain"
           />

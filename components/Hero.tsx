@@ -10,16 +10,16 @@ const content = {
     name: "Nguyễn Cao Duy",
     title: "Data Scientist & Analytics Engineer",
     tagline: "Transforming raw data into actionable insights through AI and visualization",
-    cta1: "View My Projects",
-    cta2: "Download CV"
+    cta1: "View Projects",
+    cta2: "View CV"
   },
   vi: {
     greeting: "Xin chào! Tôi là",
     name: "Nguyễn Cao Duy",
-    title: "Nhà Khoa học Dữ liệu & Kỹ sư Phân tích",
+    title: "Khoa học Dữ liệu & Kỹ sư Phân tích",
     tagline: "Biến dữ liệu thô thành thông tin giá trị thông qua AI và Trực quan hóa",
     cta1: "Xem Dự Án",
-    cta2: "Tải CV"
+    cta2: "Xem CV"
   }
 };
 
@@ -67,7 +67,9 @@ export default function Hero({ language }: HeroProps) {
               {texts.cta1}
             </a>
             <a
-              href="#"
+              href="/CV_DataScientistIntern_DuyNguyenCao.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-8 py-3 border-2 border-blue-500 text-blue-500 dark:text-blue-400 dark:border-blue-400 font-semibold rounded-full hover:bg-blue-500/10 transition-all duration-300 transform hover:scale-105"
             >
               {texts.cta2}

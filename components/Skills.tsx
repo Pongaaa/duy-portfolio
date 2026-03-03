@@ -133,7 +133,7 @@ export default function Skills({ language }: SkillsProps) {
             </div>
             <div>
               <p className="text-4xl font-bold bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent mb-2">
-                8.35
+                8.36
               </p>
               <p className="text-slate-700 dark:text-slate-300">
                 {language === 'en' ? 'GPA' : 'Điểm GPA'}
