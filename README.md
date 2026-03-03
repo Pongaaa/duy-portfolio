@@ -15,7 +15,8 @@ Chào bạn! Tôi là **Nguyễn Cao Duy**, sinh viên năm 3 chuyên ngành Kho
 ## 📂 Featured Projects
 
 ### 1. Product Recommendation System
-*Hệ thống gợi ý sản phẩm được cá nhân hóa bằng AI.*
+*Hệ thống gợi ý sản phẩm được cá nhân hóa.*
+* **Live Demo:** [Xem trực tiếp tại đây](https://pongaaa-top10-item-recommendation-system-app-na6umc.streamlit.app/)
 * **Tech:** Python, Pandas, Scikit-learn, LightGBM.
 * **Highlight:** Đạt 14% Precision@10, tối ưu hóa kế hoạch kho hàng cho doanh nghiệp.
 
