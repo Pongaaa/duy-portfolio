@@ -29,6 +29,14 @@ const projects = {
       tech: ["FastAPI", "CLIP", "Milvus", "Docker", "Redis"],
       challenge: "Optimized vector database for million-scale similarity search with millisecond latency.",
       result: "50%+ improvement in document discovery | Eliminated manual tagging"
+    },
+    {
+      title: "GoldInsight",
+      subtitle: "Real-time Gold Market Analytics",
+      description: "A specialized platform for tracking and analyzing gold price fluctuations. It provides real-time data visualization and market trend analysis to help users make informed investment decisions.",
+      tech: ["React", "FastAPI", "Web Scraping", "Chart.js", "PostgreSQL"],
+      challenge: "Integrating disparate data sources and ensuring sub-second latency for live price updates via REST API.",
+      result: "Real-time tracking | 95%+ Data accuracy | Intuitive market forecasting"
     }
   ],
   vi: [
@@ -55,7 +63,15 @@ const projects = {
       tech: ["FastAPI", "CLIP", "Milvus", "Docker", "Redis"],
       challenge: "Tối ưu hóa vector database cho tìm kiếm similarity quy mô triệu vector với độ trễ milisecond.",
       result: "Cải thiện tìm kiếm 50% | Loại bỏ hoàn toàn gắn thẻ thủ công"
-    }
+    },
+    {
+      title: "GoldInsight",
+      subtitle: "Phân tích thị trường vàng thời gian thực",
+      description: "Nền tảng chuyên biệt để theo dõi và phân tích sự biến động của giá vàng. Cung cấp trực quan hóa dữ liệu theo thời gian thực và phân tích xu hướng thị trường giúp người dùng đưa ra quyết định đầu tư đúng đắn.",
+      tech: ["React", "FastAPI", "Web Scraping", "Chart.js", "PostgreSQL"],
+      challenge: "Tích hợp các nguồn dữ liệu rời rạc và đảm bảo độ trễ cực thấp cho việc cập nhật giá trực tiếp qua REST API.",
+      result: "Cập nhật Real-time | Độ chính xác dữ liệu >95% | Dự báo xu hướng trực quan"
+    },
   ]
 };
 
