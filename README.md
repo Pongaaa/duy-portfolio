@@ -1,5 +1,6 @@
 # duy-portfolio
 AI Engineer & Fullstack Developer
+👉 **[Live Demo: duy-nguyen-portfolio.vercel.app](https://duy-nguyen-portfolio-y5ax-585sqlpti-pongaaas-projects.vercel.app)**
 
 Chào bạn! Tôi là **Nguyễn Cao Duy**, sinh viên năm 3 chuyên ngành Khoa học Máy tính tại trường Đại học Công nghệ Thông tin (UIT). Đây là không gian lưu trữ các dự án tôi tâm đắc nhất, tập trung vào việc ứng dụng AI để giải quyết các bài toán thực tế và tối ưu hóa trải nghiệm người dùng.
 
@@ -25,6 +26,7 @@ Chào bạn! Tôi là **Nguyễn Cao Duy**, sinh viên năm 3 chuyên ngành Kho
 
 ### 3. GoldInsight
 *Nền tảng phân tích thị trường vàng thời gian thực.*
+* **Live Demo:** [Xem trực tiếp tại đây](https://goldsight-web-kappa.vercel.app/)
 * **Tech:** React, FastAPI, Web Scraping, Chart.js, PostgreSQL.
 * **Highlight:** Tích hợp dữ liệu thời gian thực, đảm bảo độ trễ thấp và độ chính xác dữ liệu cao.
 
