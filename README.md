@@ -1,5 +1,5 @@
 # duy-portfolio
-# Portfolio: AI Engineer & Fullstack Developer
+AI Engineer & Fullstack Developer
 
 Chào bạn! Tôi là **Nguyễn Cao Duy**, sinh viên năm 3 chuyên ngành Khoa học Máy tính tại trường Đại học Công nghệ Thông tin (UIT). Đây là không gian lưu trữ các dự án tôi tâm đắc nhất, tập trung vào việc ứng dụng AI để giải quyết các bài toán thực tế và tối ưu hóa trải nghiệm người dùng.
 
